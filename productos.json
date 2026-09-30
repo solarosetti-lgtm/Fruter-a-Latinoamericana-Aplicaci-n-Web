@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "nombre": "Manzana",
+    "precio": 500,
+    "imagen": "imgmanzana.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Banana",
+    "precio": 400,
+    "imagen": "imgbanana.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Naranja",
+    "precio": 450,
+    "imagen": "imgnaranja.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Melón",
+    "precio": 350,
+    "imagen": "imgmelon.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Coco",
+    "precio": 700,
+    "imagen": "imgcoco.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Arándanos",
+    "precio": 650,
+    "imagen": "imgarandanos.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Uvas",
+    "precio": 700,
+    "imagen": "imguvas.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Cerezas",
+    "precio": 1100,
+    "imagen": "imgcerezas.jpg"
+  }
+]
+
+
